@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "name": "Open index.html",
+            "type": "command",
+            "program": ".scripts/run_config-index.sh"
+        }
+    ]
+}
